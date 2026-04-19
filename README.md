@@ -34,6 +34,27 @@ Observabilidade**
 </p>
 <img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" />
 
+### 🎓 Educação
+
+- **Análise e Desenvolvimento de Sistemas** | [Nome da Instituição]
+- **Status:** Último Período (Conclusão prevista para 2026)
+
+Progresso do curso:
+![Progress](https://geps.dev/progress/90) ```
+
+---
+
+### Exemplo de como ficaria no código do seu perfil:
+
+```markdown
+## 🛠 Habilidades e Ferramentas
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🎓 Formação Acadêmica
+- **ADS** (Análise e Desenvolvimento de Sistemas) - [Sua Faculdade]
+- Conclusão prevista: 2026-2
+- ![Progress](https://geps.dev/progress/95)
+
 ---
 
 ### 🔗 Conecte-se Comigo
