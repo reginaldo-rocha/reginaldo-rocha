@@ -40,7 +40,7 @@ Observabilidade**
 - **Status:** Último Período (Conclusão prevista para 2026)
 
 Progresso do curso:
-![Progress](https://geps.dev/progress/90) ```
+![Progress](https://geps.dev/progress/80) ```
 
 
 
