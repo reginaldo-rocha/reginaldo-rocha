@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Olá, eu sou o Reginaldo Rocha
+
+🚀 Trabalho com Infraestrutura | Cloud, Observabilidade & FinOps
+🏗️ Evoluindo para Engenharia de Dados
+Sou um profissional de tecnologia apaixonado por eficiência operacional e escalabilidade. Com uma base em arquiteturas de nuvem e monitoramento, estou expandindo minha atuação para a Engenharia de Dados, unindo a robustez da infraestrutura com a inteligência do processamento de dados.
 
 <!--
 **reginaldo-rocha/reginaldo-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
