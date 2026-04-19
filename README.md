@@ -2,16 +2,7 @@
 
 🚀 Trabalho com Infraestrutura | Cloud, Observabilidade & FinOps
 🏗️ Evoluindo para Engenharia de Dados
-Sou um profissional de tecnologia apaixonado por eficiência operacional e escalabilidade. Com uma base em arquiteturas de nuvem e monitoramento, estou expandindo minha atuação para a Engenharia de Dados, unindo a robustez da infraestrutura com a inteligência do processamento de dados.
-
-# 👋 Olá, eu sou o [SEU NOME]
-
-### 🚀 Especialista em Cloud, Observabilidade & FinOps
-### 🏗️ Especializando em Engenharia de Dados
-
-Sou um profissional focado em eficiência operacional e escalabilidade, unindo a robustez da infraestrutura com a inteligência do processamento de dados.
-
----
+Sou um profissional de tecnologia apaixonado por eficiência operacional e escalabilidade. Com uma base em arquiteturas de nuvem e monitoramento, estou expandindo minha atuação para a Engenharia de Dados, unindo a robustez da infraestrutura com a inteligência do processamento de dados
 
 ### 🛠️ Tecnologias e Ferramentas
 
