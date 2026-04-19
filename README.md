@@ -32,6 +32,7 @@ Sou um profissional de tecnologia apaixonado por eficiência operacional e escal
   <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+<img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ---
 
