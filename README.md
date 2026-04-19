@@ -36,7 +36,7 @@ Observabilidade**
 
 ### 🎓 Educação
 
-- **Análise e Desenvolvimento de Sistemas** | [Nome da Instituição]
+- **Análise e Desenvolvimento de Sistemas** | [Facint]
 - **Status:** Último Período (Conclusão prevista para 2026)
 
 Progresso do curso:
