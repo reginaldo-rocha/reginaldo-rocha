@@ -14,6 +14,7 @@ Sou um profissional de tecnologia apaixonado por eficiência operacional e escal
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
+<img src="https://images.credly.com/size/340x340/images/64376483-2009-410a-912c-5b233a1f9e2e/practitioner_badge-01.png" width="150">
 
 #### **Observabilidade**
 <p align="left">
