@@ -24,7 +24,7 @@ Sou um profissional de tecnologia apaixonado por eficiência operacional e escal
   <img src="https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/ELK-%23005571.svg?style=for-the-badge&logo=elastic-stack&logoColor=white" />
 </p>
-
+<img src="https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white" />
 #### **Engenharia de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
