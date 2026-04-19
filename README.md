@@ -14,7 +14,6 @@ Sou um profissional de tecnologia apaixonado por eficiência operacional e escal
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-![FinOps](https://img.shields.io/badge/FinOps-00A69F?style=for-the-badge&logo=target&logoColor=white)
 
 #### **Observabilidade**
 <p align="left">
