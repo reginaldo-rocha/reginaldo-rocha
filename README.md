@@ -25,7 +25,7 @@ Observabilidade**
   <img src="https://img.shields.io/badge/ELK-%23005571.svg?style=for-the-badge&logo=elastic-stack&logoColor=white" />
 </p>
 <img src="https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white" />
-#### **Engenharia de Dados**
+**Engenharia de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
