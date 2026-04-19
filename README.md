@@ -17,7 +17,7 @@ Sou um profissional de tecnologia apaixonado por eficiência operacional e escal
 <img src="https://img.shields.io/badge/FinOps-00A69F?style=for-the-badge&logo=target&logoColor=white" />
 
 
-#### **Observabilidade**
+Observabilidade**
 <p align="left">
   <img src="https://img.shields.io/badge/Dynatrace-%23732781.svg?style=for-the-badge&logo=dynatrace&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
