@@ -15,6 +15,7 @@ Sou um profissional de tecnologia apaixonado por eficiência operacional e escal
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 <img src="https://img.shields.io/badge/FinOps-00A69F?style=for-the-badge&logo=target&logoColor=white" />
+https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/finops.png
 
 
 Observabilidade**
