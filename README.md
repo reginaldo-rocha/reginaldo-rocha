@@ -1,4 +1,4 @@
-☁️Reginaldo Rocha
+⚙️ Reginaldo Rocha
 
 **Cloud Engineer | Azure | Data Engineering | Airflow | Databricks | FinOps | DevOps | PostgreSQL | Docker**
 
