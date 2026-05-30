@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional de Tecnologia com experiência em Infraestrutura, Cloud Computing e Segurança da Informação, atualmente aprofundando atuação em Engenharia de Dados e Arquiteturas Modernas de Dados.
+Profissional de Tecnologia com experiência em Cloud Computing, Infraestrutura e Observabilidade,FinOps, atuando no desenvolvimento de soluções orientadas a dados, e arquiteturas modernas em nuvem.
 
 Ao longo da minha trajetória participei de projetos envolvendo:
 
