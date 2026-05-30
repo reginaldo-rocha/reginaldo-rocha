@@ -1,9 +1,7 @@
 # REGINALDO ROCHA
 
 
-**Cloud Engineer | Azure | Data Engineering | Airflow | Databricks | FinOps | DevOps | PostgreSQL | Docker**
-
-**Construindo soluções em Cloud e Dados, unindo infraestrutura, automação e engenharia de dados para gerar valor de negócio.**
+Profissional focado em Cloud Computing, Data Engineering e FinOps, construindo soluções escaláveis que unem infraestrutura, automação, observabilidade e dados para gerar eficiência operacional e valor de negócio.
 
 ---
 
