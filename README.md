@@ -65,17 +65,15 @@ Pipeline moderno consumindo dados de APIs externas.
 
 ---
 
-## 🏗️ Projeto 9 — Azure Data Engineering
+🚀 Projeto 09 — Kafka + Spark Streaming + MinIO + Airflow
 
-Pipeline de dados em ambiente Microsoft Azure.
-
-🔹 Azure Storage
-
-🔹 Azure Data Factory
-
-🔹 Monitoramento
-
-🔹 Governança de dados
+🔹Python
+🔹Apache Kafka
+🔹Apache Spark Structured Streaming
+🔹Apache Airflow
+🔹MinIO
+🔹Docker
+🔹Docker Compose
 
 ➡️ Foco: Cloud Data Platform
 
@@ -234,7 +232,7 @@ Progresso do curso:
 
 📍 Raposos- Minas gerais - Brasil
 
-💼 LinkedIn: linkedin.com/in/reginaldorocha
+💼 LinkedIn:https://www.linkedin.com/in/reginaldorochacloud/
 
 📧 Email: reginaldozu.rocha@gmail.com
 
