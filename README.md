@@ -65,17 +65,15 @@ Pipeline moderno consumindo dados de APIs externas.
 
 ---
 
-🚀 Projeto 09 — Kafka + Spark Streaming + MinIO + Airflow
+### 🚀 Projeto 09 — Kafka + Spark Streaming + MinIO + Airflow
 
-🔹Python
-🔹Apache Kafka
-🔹Apache Spark Structured Streaming
-🔹Apache Airflow
-🔹MinIO
-🔹Docker
-🔹Docker Compose
-
-➡️ Foco: Cloud Data Platform
+* 🐍 **Python**
+* 🪵 **Apache Kafka**
+* ⚡ **Apache Spark (Structured Streaming)**
+* 💨 **Apache Airflow**
+* 🪣 **MinIO**
+* 🐳 **Docker**
+* 🐙 **Docker Compose**
 
 ---
 
