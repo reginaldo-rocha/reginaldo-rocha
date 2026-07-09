@@ -222,6 +222,12 @@ Construir soluções modernas em Cloud e Dados que permitam:
 
 ### 🎓 Educação
 
+🌍 Idiomas
+
+🇧🇷 Português — Nativo
+
+🇺🇸 Inglês — Em desenvolvimento (What If English)
+
 - **Análise e Desenvolvimento de Sistemas** | [Facint]
 - **Status:** Último Período (Conclusão prevista para 2026)
 
