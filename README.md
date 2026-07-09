@@ -165,7 +165,7 @@ Implementação de arquitetura Lakehouse moderna.
 
 🔍 New Relic (1)
 
-☁️ Oracle (3)
+☁️ Oracle (4)
 
 📊 Dynatrace (1)
 
