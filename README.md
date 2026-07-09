@@ -223,9 +223,6 @@ Construir soluções modernas em Cloud e Dados que permitam:
 
 **Conclusão prevista:** 2026
 
-**Progresso**
-
-![80%](https://progress-bar.dev/80/?title=Curso&width=350)
 
 # 📫 Contato
 
