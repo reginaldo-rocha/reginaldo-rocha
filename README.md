@@ -220,19 +220,29 @@ Construir soluções modernas em Cloud e Dados que permitam:
 ✔ Visão integrada de Cloud, Dados e Negócio
 
 
-### 🎓 Educação
+## 🎓 Educação
 
-🌍 Idiomas
+### 🌍 Idiomas
 
-🇧🇷 Português — Nativo
+🇧🇷 **Português**
+>Nativo
 
-🇺🇸 Inglês — Em desenvolvimento (What If English)
+🇺🇸 **Inglês**
+>Em desenvolvimento • What If English
 
-- **Análise e Desenvolvimento de Sistemas** | [Facint]
-- **Status:** Último Período (Conclusão prevista para 2026)
+---
 
-Progresso do curso:
-![Progress](https://geps.dev/progress/80) ```
+### 💻 Análise e Desenvolvimento de Sistemas
+
+**Instituição:** Faculdade Facinto
+
+**Status:** 🎓 Último período
+
+**Conclusão prevista:** 2026
+
+**Progresso**
+
+![80%](https://progress-bar.dev/80/?title=Curso&width=350)
 
 # 📫 Contato
 
