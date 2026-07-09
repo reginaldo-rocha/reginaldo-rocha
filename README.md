@@ -27,11 +27,7 @@ Atualmente concentro meus estudos e projetos práticos em:
 
 Buscando construir pipelines escaláveis, ambientes modernos de dados e soluções orientadas a dados utilizando tecnologias amplamente adotadas pelo mercado.
 
-🌍 Idiomas
 
-🇧🇷 Português — Nativo
-
-🇺🇸 Inglês — Em desenvolvimento (What If English)
 
 ---
 
