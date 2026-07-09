@@ -95,23 +95,6 @@ Implementação de arquitetura Lakehouse moderna.
 
 ---
 
-# ☁️ Stack Tecnológica
-
-## Cloud
-
-🔹 Microsoft Azure
-
-🔹 Amazon Web Services
-
-🔹 Oracle Cloud Infrastructure
-
-🔹 Google Cloud Platform
-
-🔹 Microsoft Defender for Cloud
-
-
----
-
 ## Data Engineering
 
 🔹 Apache Airflow
