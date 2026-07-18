@@ -26,6 +26,48 @@ Tenho experiência na construção de pipelines Batch e Streaming, modelagem de 
 
 Meu objetivo é desenvolver soluções escaláveis, confiáveis e orientadas a dados utilizando as principais tecnologias do mercado.
 
+---
+Stack Principal
+
+# ⚙️ Stack Principal
+
+### Linguagens
+
+- Python
+- SQL
+
+### Engenharia de Dados
+
+- Apache Spark
+- Databricks
+- Apache Airflow
+- Kafka
+- Azure Data Factory
+
+### Bancos de Dados
+
+- PostgreSQL
+- SQL Server
+- BigQuery
+
+### Cloud
+
+- Microsoft Azure
+
+### DevOps
+
+- Docker
+- Git
+- GitHub
+
+### Observabilidade
+
+- Grafana
+
+### FinOps
+
+- Azure Cost Management
+
 
 
 ---
