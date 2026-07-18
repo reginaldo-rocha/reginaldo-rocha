@@ -7,25 +7,24 @@ Construindo pipelines de dados escaláveis, arquiteturas modernas e soluções e
 
 ## 👨‍💻 Sobre mim
 
-Profissional de Tecnologia com experiência em Cloud Computing, Infraestrutura e Observabilidade,FinOps, atuando no desenvolvimento de soluções orientadas a dados, e arquiteturas modernas em nuvem.
+Sou Engenheiro de Dados com experiência em Cloud Computing, automação e construção de pipelines modernos para processamento e análise de dados.
 
-Ao longo da minha trajetória participei de projetos envolvendo:
+Minha atuação está focada em:
 
-🔹 Administração de ambientes Microsoft e Cloud
+- Engenharia de Dados
+- Apache Spark
+- Databricks
+- Python
+- SQL
+- Azure Data Factory
+- Airflow
+- Kafka
+- Docker
+- PostgreSQL
 
-🔹 Segurança, Governança e Compliance
+Tenho experiência na construção de pipelines Batch e Streaming, modelagem de dados, Data Warehouses, Data Lakes e arquiteturas Medalhão (Bronze, Silver e Gold).
 
-🔹 Monitoramento e Otimização de Recursos
-
-🔹 Automação de Processos e Infraestrutura
-
-🔹 FinOps e Controle de Custos em Nuvem
-
-Atualmente concentro meus estudos e projetos práticos em:
-
-👉 **Data Engineering + Cloud + Automação + FinOps**
-
-Buscando construir pipelines escaláveis, ambientes modernos de dados e soluções orientadas a dados utilizando tecnologias amplamente adotadas pelo mercado.
+Meu objetivo é desenvolver soluções escaláveis, confiáveis e orientadas a dados utilizando as principais tecnologias do mercado.
 
 
 
