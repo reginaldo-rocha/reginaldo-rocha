@@ -24,7 +24,7 @@ Construindo pipelines de dados escaláveis, arquiteturas modernas e soluções e
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
----
+
 
 ## 👨‍💻 Sobre mim
 
@@ -46,6 +46,20 @@ Minha atuação está focada em:
 Tenho experiência na construção de pipelines Batch e Streaming, modelagem de dados, Data Warehouses, Data Lakes e arquiteturas Medalhão (Bronze, Silver e Gold).
 
 Meu objetivo é desenvolver soluções escaláveis, confiáveis e orientadas a dados utilizando as principais tecnologias do mercado.
+
+# ⚙️ Tech Stack
+
+|Categoria|Tecnologias|
+|----------|-----------|
+|☁ Cloud|Azure|
+|🔥 Processamento|Apache Spark • Databricks|
+|🌊 Orquestração|Apache Airflow|
+|⚡ Streaming|Apache Kafka|
+|🐍 Linguagem|Python|
+|🗄 Banco de Dados|PostgreSQL • SQL Server • BigQuery|
+|📦 Containers|Docker|
+|📊 BI|Grafana • Power BI|
+|💻 Versionamento|Git • GitHub|
 
 ---
 
