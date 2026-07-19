@@ -1,5 +1,9 @@
 # REGINALDO ROCHA
 
+<p align="center">
+  <img src="banner-github.png" alt="Banner Reginaldo Rocha" width="100%">
+</p>
+
 ## Data Engineer | Azure | Databricks | Apache Spark | Python | SQL
 
 Construindo pipelines de dados escaláveis, arquiteturas modernas e soluções em Cloud para transformar dados em valor de negócio.
