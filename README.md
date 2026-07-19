@@ -27,112 +27,56 @@ Tenho experiência na construção de pipelines Batch e Streaming, modelagem de 
 Meu objetivo é desenvolver soluções escaláveis, confiáveis e orientadas a dados utilizando as principais tecnologias do mercado.
 
 ---
-Stack Principal
 
-# ⚙️ Stack Principal
-
-### Linguagens
-
-- Python
-- SQL
-
-### Engenharia de Dados
-
-- Apache Spark
-- Databricks
-- Apache Airflow
-- Kafka
-- Azure Data Factory
-
-### Bancos de Dados
-
-- PostgreSQL
-- SQL Server
-- BigQuery
-
-### Cloud
-
-- Microsoft Azure
-
-### DevOps
-
-- Docker
-- Git
-- GitHub
-
-### Observabilidade
-
-- Grafana
-
-### FinOps
-
-- Azure Cost Management
-
-
-
----
 
 # 🚀 Projetos em Destaque
 
-## 📊 Projeto 7 — Airflow + PostgreSQL + Docker
+## 🥇 Arquitetura Medalhão no BigQuery
 
-Pipeline ETL completo orquestrado com Apache Airflow.
+Projeto completo utilizando arquitetura Bronze, Silver e Gold para construção de um ambiente analítico moderno.
 
-🔹 Extração de dados automatizada
+Tecnologias:
 
-🔹 Transformação utilizando Python
+- BigQuery
+- SQL
+- Data Warehouse
+- ETL
+- Modelagem de Dados
 
-🔹 Carga em PostgreSQL
+## ⚡ Kafka + Spark Streaming + MinIO + Airflow
 
-🔹 Containers Docker
+Pipeline de processamento em tempo real utilizando arquitetura moderna de streaming.
 
-🔹 Monitoramento via Airflow UI
+Tecnologias:
 
-➡️ Foco: Data Engineering + Orquestração
+- Apache Kafka
+- Apache Spark Structured Streaming
+- Apache Airflow
+- Docker
+- MinIO
 
----
+## 📊 PostgreSQL + Grafana
 
-## ⚡ Projeto 8 — Airflow + API + PostgreSQL
+Projeto OLAP utilizando Star Schema com dashboards analíticos.
 
-Pipeline moderno consumindo dados de APIs externas.
+Tecnologias:
 
-🔹 Consumo de APIs REST
+- PostgreSQL
+- SQL
+- Grafana
+- Star Schema
+- Modelagem Dimensional
 
-🔹 Tratamento de dados
+## 🔄 Airflow + PostgreSQL + Docker
 
-🔹 Persistência em PostgreSQL
+Pipeline ETL automatizado utilizando Apache Airflow.
 
-🔹 Orquestração via Airflow
+Tecnologias:
 
-➡️ Foco: Integração de Dados
-
----
-
-### 🚀 Projeto 09 — Kafka + Spark Streaming + MinIO + Airflow
-
-* 🐍 `Python`
-* 🪵 `Apache Kafka`
-* ⚡ `Apache Spark Structured Streaming`
-* 💨 `Apache Airflow`
-* 🪣 `MinIO`
-* 🐳 `Docker`
-* 🐙 `Docker Compose`
-
----
-
-## 🚀 Projeto 10 — Databricks + Delta Lake
-
-Implementação de arquitetura Lakehouse moderna.
-
-🔹 Apache Spark
-
-🔹 Delta Lake
-
-🔹 Databricks Community Edition
-
-🔹 Processamento de dados em larga escala
-
-➡️ Foco: Big Data + Lakehouse
+- Apache Airflow
+- PostgreSQL
+- Docker
+- Python
 
 ---
 
