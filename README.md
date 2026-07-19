@@ -243,13 +243,7 @@ Construir soluções modernas em Cloud e Dados que permitam:
 
 **Conclusão prevista:** 2026
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reginaldo-rocha&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-rocha&layout=compact"/>
-
-</p>
 
 
 # 📫 Contato
