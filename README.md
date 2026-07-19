@@ -1,8 +1,8 @@
-# REGINALDO ROCHA
-
 <p align="center">
   <img src="banner-github.png" alt="Banner Reginaldo Rocha" width="100%">
 </p>
+
+# REGINALDO ROCHA
 
 ## Data Engineer | Azure | Databricks | Apache Spark | Python | SQL
 
