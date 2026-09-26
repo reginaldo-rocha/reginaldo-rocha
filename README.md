@@ -1,7 +1,7 @@
 
 # REGINALDO ROCHA
 
-## Data Engineer | Azure | Databricks | Apache Spark | Python | SQL
+Engenheiro de Dados especializado em Cloud, Databricks e Processamento de Dados | Background em Infraestrutura, FinOps e Observabilidade
 
 Construindo pipelines de dados escaláveis, arquiteturas modernas e soluções em Cloud para transformar dados em valor de negócio.
 
