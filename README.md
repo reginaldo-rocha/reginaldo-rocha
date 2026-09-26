@@ -52,73 +52,83 @@ Principais competências:
 
 ---
 
-# 🏆 Projetos em Destaque
+# 🏆 Projetos em destaque
 
-## 🥇 Arquitetura Medalhão no BigQuery
+## 🥇 Pipeline de Dados de Câmbio
 
-Implementação de uma arquitetura de dados utilizando as camadas **Bronze, Silver e Gold**, estruturando o fluxo desde os dados brutos até informações preparadas para consumo analítico.
+Pipeline de Engenharia de Dados com fluxo completo:
 
-### Principais conceitos
+**API → Ingestão → Validação → Transformação → Banco de Dados → Visualização**
 
-- Arquitetura Medalhão
-- Ingestão de dados
-- Transformação com SQL
+### Destaques técnicos
+
+- Conversão explícita de campos monetários recebidos como string
+- Schema Validation
 - Data Quality
-- Modelagem de dados
-- Camada analítica
-- ETL/ELT
+- Tratamento de valores nulos
+- Validação de valores negativos e inválidos
+- Validação de tipos
+- Deduplicação
+- Idempotência
+- Merge / Upsert
+- Carga incremental
+- Tratamento de dados provenientes de sistemas externos
 
 ### Tecnologias
 
-**BigQuery | SQL | Data Warehouse | ETL/ELT**
-
-🔗 [Ver projeto](LINK_DO_REPOSITORIO)
+**Python | SQL | API | PostgreSQL | Grafana**
 
 ---
 
-## ⚡ Pipeline Streaming com Kafka + Spark
+## 🥈 Python para Data Engineering
 
-Pipeline de processamento de dados em tempo real utilizando arquitetura distribuída.
+Projeto focado na construção de pipelines mais robustos e próximos de cenários reais de produção.
 
-### Arquitetura
+### Destaques técnicos
 
-**Fonte → Kafka → Spark Structured Streaming → MinIO → Processamento → Consumo**
-
-### Principais conceitos
-
-- Streaming de dados
-- Processamento distribuído
-- Orquestração
-- Data Lake
-- Containers
-- Arquitetura orientada a eventos
+- Organização estruturada do projeto
+- Configurações externas com `.env` ou YAML
+- Remoção de URLs, caminhos e parâmetros fixos do código
+- Logging estruturado
+- Timeout em chamadas de API
+- Retry para falhas transitórias
+- Validação de status HTTP
+- Tratamento de respostas inválidas
+- Validação de moeda obrigatória
+- Validação de timestamp
+- Validação de preço maior que zero
+- Tratamento de valores nulos
+- Deduplicação
+- Idempotência
+- Merge / Upsert
+- Carga incremental
 
 ### Tecnologias
 
-**Apache Kafka | Apache Spark | Airflow | Docker | MinIO | Python**
-
-🔗 [Ver projeto](LINK_DO_REPOSITORIO)
+**Python | SQL | APIs | PostgreSQL | YAML | Logging**
 
 ---
 
-## 🔥 Databricks + Spark + Delta Lake
+## 🥉 Pipeline Resiliente e Evolutivo
 
-Projeto de Engenharia de Dados utilizando **Databricks, Apache Spark e Delta Lake**, implementando processamento e organização dos dados através da Arquitetura Medalhão.
+Projeto voltado à construção de pipelines capazes de lidar com reprocessamento, crescimento dos dados e mudanças na origem.
 
-### Fluxo
+### Destaques técnicos
 
-**Dados Brutos → Bronze → Silver → Gold → Analytics**
+- Idempotência
+- Deduplicação
+- Merge / Upsert
+- Carga incremental
+- Controle por data de atualização
+- Tratamento de alterações de schema
+- Validação de novas colunas
+- Evolução controlada da estrutura
+- Tratamento de falhas
+- Monitoramento do pipeline
 
-### Principais conceitos
+### Tecnologias
 
-- Apache Spark
-- PySpark
-- Delta Lake
-- Arquitetura Medalhão
-- Transformação de dados
-- Data Quality
-- Processamento distribuído
-- Data Lakehouse
+**Python | SQL | PostgreSQL | Data Quality | Schema Evolution**
 
 ### Tecnologias
 
