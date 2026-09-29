@@ -134,7 +134,7 @@ Projeto voltado à construção de pipelines capazes de lidar com reprocessament
 
 **Databricks | Apache Spark | PySpark | Delta Lake | SQL**
 
-🔗 [Ver projeto](LINK_DO_REPOSITORIO)
+
 
 ---
 
