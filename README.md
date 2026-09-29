@@ -128,11 +128,7 @@ Projeto voltado à construção de pipelines capazes de lidar com reprocessament
 
 ### Tecnologias
 
-**Python | SQL | PostgreSQL | Data Quality | Schema Evolution**
-
-### Tecnologias
-
-**Databricks | Apache Spark | PySpark | Delta Lake | SQL**
+**Python | SQL | PostgreSQL | Data Quality | Schema Evolution*
 
 
 
